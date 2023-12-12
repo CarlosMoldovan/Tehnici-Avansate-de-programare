@@ -1,0 +1,7 @@
+﻿  Laboratorul3.cpp
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul3\Laboratorul3.cpp(23,13): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1250)
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul3\Laboratorul3.cpp(23,13): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1250)
+  Punct.cpp
+  dreapta.cpp
+  Generating Code...
+  Laboratorul3.vcxproj -> C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul3\x64\Debug\Laboratorul3.exe
