@@ -1,0 +1,9 @@
+﻿  Angajat.cpp
+  Laboratorul6.cpp
+  Persoana.cpp
+  Profesor.cpp
+  Student.cpp
+  Generating Code...
+Profesor.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Profesor::getMaterie(void)" (?getMaterie@Profesor@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Profesor::detalii(void)" (?detalii@Profesor@@UEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+Student.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Student::getNota(void)const " (?getNota@Student@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Student::detalii(void)" (?detalii@Student@@UEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul6\x64\Debug\Laboratorul6.exe : fatal error LNK1120: 2 unresolved externals
