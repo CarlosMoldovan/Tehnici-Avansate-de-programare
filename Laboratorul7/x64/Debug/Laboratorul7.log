@@ -1,0 +1,4 @@
+﻿  Laboratorul7.cpp
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul7\Laboratorul7.cpp(34,13): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1250)
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul7\Laboratorul7.cpp(37,9): error C2374: 'index': redefinition; multiple initialization
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Tehnici Avansate de programare\Laboratorul7\Laboratorul7.cpp(24,9): message : see declaration of 'index'
